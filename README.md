@@ -208,21 +208,21 @@ Después de los HMW's, conceptualizamos 6 objetivos para contruirlos y implement
 ### Prototipo de Baja
 
 <p align="center">
-<img src='IMG_20190509_233916.jpg' width='478' height='523'>
+<img src='src\images\baja_fidelidad.PNG'>
 </p>    
 
 
 ### Prototipo de Mediana (Wireframing)
 
 <p align="center">
-<img src=''>
+<img>
 </p>    
 
 
 ### Prototipo de Alta Fidelidad 
 
 <p align="center">
-<img src=>
+<img>
 </p>    
 
 
