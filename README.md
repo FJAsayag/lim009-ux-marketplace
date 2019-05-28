@@ -1,8 +1,8 @@
 ## Datos Generales
 
 Emprendimiento: [COCINA ABIERTA](https://www.instagram.com/cocinaabierta.pe/)
-Industria: Alimentaria
-Rubro: Servicios Chef a Domicilio
+Industria: Catering
+Rubro: Servicios de chef a domicilio
 
 
 ## Introducción
@@ -49,10 +49,19 @@ A través de las entrevistas, se obtuvo dos percepciones distintas con respecto 
 
 `CLIENTES`:
 
+**_"Un encuentro, cinco platos"_**
 Kevin Shu, CEO de Cocina Abierta
-_“Un encuentro, cinco platos”_ 
 
-Roxana Kern; COO de Cocina Abierta
+Este servicio ofrece un menú de 5 platos en base a comida gourmet asiática moderna para compartir un viaje de sabores únicos.
+Este servicio se estructura en 3 ramas:
+- Fine Home Dining: cenas privadas (6-12)
+- Market: venta de productos (insumos)
+- Catering: Masificación del menú para cenas privadas (12 a más personas)
+Dentro de esta experiencia culinaria, se incluye vajilla para el mise and place, el set up y el clean up. Adicionalmente, en el momento, se proporciona un preámbulo de cada plato, que consiste el lugar de procedencia, el motivo de su creación y la posible sensación al momento de probarlo (**_“Fantasmas, pero a la vez no fantasmas”_**).
+Por lo tanto, el objetivo es generar una conexión entre el usuario y la comida, y así, otorgar, una experiencia más allá de comer platos gourmet (**_“Se interactúa mucho con la cocina, por eso cocina abierta“_**).
+
+**_"Un servicio relativamente premium y de buena calidad, pero no inalcanzable"_**
+Roxana Kern, COO de Cocina Abierta
 
 
 
@@ -112,7 +121,7 @@ El motivo por el cual se realizó este estudio es para obtener las mejores prác
 Se identificaron categorías recurrentes de información como producto de las entrevistas a los clientes y a los usuarios. Estas son:
 
 |**Ingenieros o Arquitectos**|**Flexibilidad de horarios**|**Redes Sociales**|
-|:---|:---|:---:|
+|:---|:---|:---|
 |**Aventureros**|**Percepción del Servicio**|**Sociables** |  
 |**Comida Asiática**|**Saber cocinar**|**Reuniones familiares o con amigos**|
 
