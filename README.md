@@ -141,7 +141,7 @@ El motivo por el cual se realizó este estudio es para obtener las mejores prác
 
 ## Identificación del problema
 
-### Affinity Map
+### Affinity Map    
 
 <p align="center">
 <img>
@@ -208,21 +208,21 @@ Después de los HMW's, conceptualizamos 6 objetivos para contruirlos y implement
 ### Prototipo de Baja
 
 <p align="center">
-<img src='src\images\Macarena López.png'>
+<img src='IMG_20190509_233916.jpg' width='478' height='523'>
 </p>    
 
 
 ### Prototipo de Mediana (Wireframing)
 
 <p align="center">
-<img src='src\images\Macarena López.png'>
+<img src=''>
 </p>    
 
 
 ### Prototipo de Alta Fidelidad 
 
 <p align="center">
-<img src='src\images\Macarena López.png'>
+<img src=>
 </p>    
 
 
