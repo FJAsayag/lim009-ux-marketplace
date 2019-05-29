@@ -3,7 +3,7 @@
 - Emprendimiento: [COCINA ABIERTA](https://www.instagram.com/cocinaabierta.pe/)
 - Industria: Catering
 - Rubro: Servicios de chef a domicilio
-- Equipo: Fátima Ayasag, Wendy Condor y María Jaramillo
+- Equipo: Fátima Asayag, Wendy Condor y María Jaramillo
 
 
 ## Introducción
@@ -168,13 +168,13 @@ Para determinar al user persona se tomo en cuenta las características demográf
 
 Para la construcción del costumer journey map, se analizo desde el primer punto de contacto con el servicio hasta el día del evento del usuario.
 
-<p align='cente'>
+<p align='center'>
 <img src='src\images\Customer journey map.png'>
 </p>
 
 Luego, se redució a los puntos claves dónde identificaron problemas que sufría el usuario a lo largo del trayecto. Asimismo, se encontró un punto de mejora. 
 
-<p align='cente'>
+<p align='center'>
 <img src='src\images\small_CJM.JPG'>
 </p>
 
@@ -269,9 +269,12 @@ Link de los testeos en loom:
 4. [Testeo del Prototipo de media a Alexis P. Fernandez](https://www.loom.com/share/f0d8840ee9344e709bdd8d98d964e95f)
 
 
-### Testeos de Prototipo de Alta Fidelidad
+### Testeos de Prototipo de Alta Fidelidad  
 
-
-
+- En la sección de la cena de degustación, la aproximidad de la información confunde el significado de los íconos como propuesta de valor.
+- Mejorar alineación de textos 
+- Botones de diferentes tamaños
+- Formulario de reservas es muy extenso
+- Estrellas de rating innecesarias 
 
 
