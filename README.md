@@ -1,192 +1,34 @@
-# Plataforma de ventas en línea
+## Datos Generales
 
-## Preámbulo
+- Emprendimiento: [COCINA ABIERTA](https://www.instagram.com/cocinaabierta.pe/)
+- Industria: Catering
+- Rubro: Servicios de chef a domicilio
+- Equipo: Fátima Asayag, Wendy Condor y María Jaramillo
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
 
 ## Introducción
 
-### “Nuevo portal de e-commerce”
+Los seres humanos tenemos inclinación hacia las cosas, las personas los servicios que demuestren una atención dedicada. Por lo tanto, la personalización del servicio al cliente es importante, ya que es una oportunidad de diferenciarse a escala humana. 
 
-Existen pequeñas empresas (emprendimientos) que comercializan productos y 
-servicios reduciendo la cantidad de intermediarios. En este proyecto, tienes que
-asesorar a un emprendimiento a crear un portal desde donde los clientes compren
-sus productos o servicios. Algunos de los emprendimientos con los cuales puedes trabajar son:
+Desde otra perspectiva, esto posibilita desarrollar una ruta para establecer confianza y conformidad con los usuarios. Asimismo, produce un sentimiento de conexión y compromiso hacia la marca. En consecuencia, esto significa que el canal por dónde se ofrece el servicio debe mostrar este “approach” para enfatizar la experiencia del usuario.
 
-- [Cocina Abierta](https://instagram.com/cocinaabierta.pe)
-- [Sweet little Neia](https://www.facebook.com/sweetlittleneia)
-- [Andi the coach](https://andithecoach.com)
-- [The Planning Co.](https://www.facebook.com/theplanningco/)
-- [Talleres De Arte TFA](https://www.instagram.com/tallerdeartetfa/)
-- [Sweet peach](https://www.facebook.com/sweet.peach.peru/)
-- [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
-- [Delivery Fruta La Grande](https://www.facebook.com/Delivery-Fruta-La-Grande-143207576316285/)
 
-Luego de definir con qué miembro trabajarás, debes ayudar a ese emprendimiento
-a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos o servicios a los consumidores. Queremos que averigües cómo
-son los clientes que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
+## Objetivos del Proyecto
 
-Una vez realizada la investigación debes formular una propuesta de valor. Esto
-quiere decir que debes pensar cómo este portal va a comunicar sus beneficios a
-los usuarios y cómo va a vender sus productos. Para que guíes a la empresa que
-elijas a entender tu visión, esperan que les hagas una propuesta de cómo podría
-ser el portal donde las personas puedan buscar, ver, elegir y comprar sus
-productos.
-
-## Objetivos de aprendizaje
-
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
-
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
-
-## Tópicos a cubrir
-
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
-
-## Consideraciones generales
-
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
-
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
-
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
-
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
-
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
-
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
-
-## Parte Obligatoria
-
-### 1) General
-
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Puedes usar Google Drive para guardar toda esta
-documentación y luego linkear las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
-
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
-
-### 2) Entendimiento del problema
-
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
-
-### 3) Planteamiento y validación de la solución
-
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
+Diseñar una plataforma web que otorgue soluciones innovadoras para los usuarios. Esta debe:
+ 
+- Implementar un formulario para reservas
+- Visibilizar los menús de degustación
+- Enfatizar el concepto del servicio
+- Enfatizar la propuesta de valor del servicio
+- Ofrecer fechas predeterminadas de reserva para seleccionar
+- Garantizar los distintos medios de pago seguro
+- Mostrar experiencias de usuarios anteriores sobre la calidad del servicio.
+ 
 
 ## Implementación
 
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-cómo es que distribuirás estos puntos en estas actividades.
-El coach te dará el ok para que puedas empezar.
+### Presupuesto
 
 |Actividad|Descripción|Puntos|
 |:----|:---|:---:|
@@ -194,91 +36,245 @@ El coach te dará el ok para que puedas empezar.
 |Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
 |Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
 |Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
 |Testeos de prototipos| Sesiones de testing de la solución propuesta (baja, media y alta fidelidad) con al menos 5 usuarios por sesión. | 60 |
 |Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
 |Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
-
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
-
-Un video en [Loom](https://www.useloom.com/) de máximo 7 minutos explicando tu documento.
-* Estos 7 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
-
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
-
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
-
-### 2) Definición del producto
-
-Al definir el producto recuerda pensar en:
-
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
-
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
-
-### 4) HTML, CSS y JS
-Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarrolla **una vista como mínimo** (aparte del login)
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
+|| **TOTAL** | **290** |
 
 
-## Hacker edition
+## Entendimiento del Problema
 
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
+### Definición del producto
 
-- Escribe un post en Medium contando tu proceso de investigación
+A través de las entrevistas, se obtuvo dos percepciones distintas con respecto al servicio que ofrece Cocina Abierta. 
+
+**`CLIENTES`**:
+
+**_"Un encuentro, cinco platos"_**  
+Kevin Shu, CEO de Cocina Abierta
+
+**_"Un servicio relativamente premium y de buena calidad, pero no inalcanzable"_**  
+Roxana Kern, COO de Cocina Abierta
+
+Este servicio ofrece un menú de 5 platos en base a comida gourmet asiática moderna para compartir un viaje de sabores únicos.
+Este servicio se estructura en 3 ramas:
+- Fine Home Dining: cenas privadas (6-12)
+- Market: venta de productos (insumos)
+- Catering: Masificación del menú para cenas privadas (12 a más personas)
+
+Dentro de esta experiencia culinaria, se incluye vajilla para el mise and place, el set up y el clean up. Adicionalmente, en el momento, se proporciona un preámbulo de cada plato, que consiste el lugar de procedencia, el motivo de su creación y la posible sensación al momento de probarlo (**_“Fantasmas, pero a la vez no fantasmas”_**).
+
+Por lo tanto, el objetivo es generar una conexión entre el usuario y la comida, y así, otorgar, una experiencia más allá de comer platos gourmet (**_“Se interactúa mucho con la cocina, por eso cocina abierta“_**).
+
+Target Teórico:
+- Mujeres entre los 30 y 50 años, porque suelen realizar reuniones de amigas con mayor frecuencia.
+Retos identificados: 
+- Desarrollar flexibilidad para adaptarse a los distintas hogares y sus cocinas. 
+
+
+**`USUARIOS`**:
+
+**_"La comida es una experiencia artística, hay diseño hasta en la comida"_**   
+Mariana Majima 
+
+**_“Creo que es un híbrido entre el servicio de chef a domicilio y los menús de degustación”_**     
+Kevin Baba  
+
+La idea de este emprendimiento se considera no muy conocida en Perú, pero se puede apreciar la dedicación en sus platos y son muy creativos. Asímismo, el equipo proporcionado pudo transmitir la historia de cada plato conjunto a su estilo minimalista. Por lo tanto, este servicio es para alguien que busca algo íntimo y personalizado.   
+
+Por otro lado, se puede disfrutar del menú de degustación de 5 pasos, el cuál consiste en dos entradas, dos platos de fondo y un postre, debido a que quita la precupación que conlleva ser anfitrión. Adicionalmente, se presencia una gran variedad de sabores y texturas.    
+
+Con respecto a la forma de contacto, se buscaría en google y se observaría los Google Reviews, Read Advisors or Google Maps.        
+
+
+**`CONCLUSIÓN`**    
+
+Analizando todo lo anterior se obtuvo la siguiente conclusión:  
+
+Cocina Abierta es un servicio que ofrece una cena de degustación de 5 platos en base a comida gourmet asiática moderna para:
+- Compartir un viaje de sabores únicos.
+- Crear experiencias culinarias inolvidables con amigos o familiares en la comodidad del hogar.
+- Y generar una conexión entre el usuario y la comida.
+
+
+### Benchmark
+
+El motivo por el cual se realizó este estudio es para obtener las mejores prácticas y adecuarlas a nuestro producto. Por consiguiente, se llevo a cabo con servicios que posean características similares a nivel local e internacional. Estos son los siguientes:
+
+1. [Takeachef](https://www.takeachef.com/es-pe/)
+   Plataforma que permite contratar un chef profesional para un evento privado.
+   - Visibilidad de los distintos eventos privados con los que trabaja (Chef a domicilio, Chef para vaciones, Chef permanente, Show Cooking, Campañas de Marketing).
+   - Sección de rating sobre la calidad de servicio de los chef en base a opiniones de clientes para cada país.
+   - Formulario de reservas de 14 pasos.
+
+2. [Chef en casa Perú](https://www.facebook.com/encasaelchefperu/)
+   Servicios de chef a domicilio y organización de eventos.
+   - Sugerencias de menús prederteminados.
+   - Blog sobre su participación en distintos eventos.
+   - Fotos de los buffets o platos que prepararon.
+
+3. [Quattro Perú](https://www.placeok.com/chef-a-domicilio-comida-peruana-quattro/)
+   Servicios de chef a domicilio, catering y delivery.
+   Tipo de comida: criolla y fusión peruana.
+   - Artículo sobre su servicio en placeok.
+
+4. [DEARBORN](https://www.dearborn.sg/)
+   Servicio de chef a domicilio.
+   Tipo de comida: americana moderna.
+   - Formulario de reserva de 4 pasos.
+   - Muestra el transcurso culinario del creador.
+   - Muestra información concisa sobre lo que incluye un menú y costos.
+
+5. [The Dinner Party Project](https://www.thedinnerpartyproject.co/)
+   Plataforma que posibilita conocer nuevas perosnas a través de cenas privadas y personalizadas.
+   - Relata la historia y el motivo por el cuál se creo el servicio.
+   - Blog
+   - Podcasts
+   - Visibilidad de los distintos eventos privados que ofrecen. 
+
+6. [DANILO](https://www.danilomelbourne.com/about-us)
+   Cenas personalizadas con la temática colombiana.
+   - Variedad de menús.
+   - Muestra colaboraciones con otros chefs, diseñadores y preparadores de vinos.
+   - Sección de noticias.
+   - Formularios de reservas de 5 pasos.
+
+
+## Identificación del problema
+
+### Affinity Map    
+
+<p align="center">
+<img>
+</p>
+
+Se identificaron categorías recurrentes de información como producto de las entrevistas a los clientes y a los usuarios. Estas son:
+
+|**Ingenieros o Arquitectos**|**Flexibilidad de horarios**|**Redes Sociales**|
+|:---|:---|:---|
+|**Aventureros**|**Percepción del Servicio**|**Sociables** |  
+|**Comida Asiática**|**Saber cocinar**|**Reuniones familiares o con amigos**|
+
+### User Persona    
+
+Para determinar al user persona se tomo en cuenta las características demográficas de los usuarios y posibles usuarios entrevistados. Adicionalmente, consideramos sus rutinas diarias, frustraciones, motivaciones para explorar nuevas alternativas culinarias.
+
+<p align="center">
+<img src='src\images\Macarena López.png'>
+</p>
+
+
+### Costumer Journey Map
+
+Para la construcción del costumer journey map, se analizo desde el primer punto de contacto con el servicio hasta el día del evento del usuario.
+
+<p align='center'>
+<img src='src\images\Customer journey map.png'>
+</p>
+
+Luego, se redució a los puntos claves dónde identificaron problemas que sufría el usuario a lo largo del trayecto. Asimismo, se encontró un punto de mejora. 
+
+<p align='center'>
+<img src='src\images\small_CJM.JPG'>
+</p>
+
+
+## Proceso de Conceptualización
+
+### Problem Statements  
+
+A través del journey map, pudimos reconocer que los problemas del usuario tuvieron que ver con la comunicación de la información concisa sobre el servicio, la facilidad en las formas de pago, el procedimiento de reserva y la manera de transmitir confianza en arriesgarse al contratar cocina abierta. 
+
+En consecuencia, las observaciones mencionadas anteriormente posibilitaron formular los siguientes _'problem statements'_. Estos son
+
+1. Macarena necesita recomendaciones de el servicio para sentir que no estará perdiendo su tiempo y dinero.
+2. Macarena necesita que la forma de pago acepte todo tipo de tarjetas para realizar transferencias sin problemas.
+3. Macarena necesita saber los ingredientes básicos del menú para saber si son de su agrado.
+4. Macarena necesita una forma de agilizar el proceso del dia -3 para que no le tome 3 horas de su valioso tiempo.
+5. Macarena necesita resolver sus dudas con el mínimo de preguntas posibles para considerar una contratación lo más eficaz posible.
+6. Macarena necesita una forma de conocer la disponibilidad del servicio para reservar de manera rápida.
+
+
+### HMW's    
+
+Al finalizar la concretación de los principales problemas de los usuarios con respecto al servicio actual, se procedió a definir los _how might we_ correspondientes. Estos son los siguinetes:
+
+How might we... 
+
+
+### Oportunidades de Desarrollo 
+
+Después de los HMW's, conceptualizamos 6 objetivos para contruirlos y implementarlos en nuestro producto mínimo viable. Estos son:
+
+1. Presentar la información de manera entendible concisa y asertiva.    
+2. Presentar los menús de forma atractiva.
+3. Hacer entendible cuál es el concepto de Cocina Abierta.
+4. Mostrar la fiabilidad del servicio a través de recomendaciones.
+5. Crear un flujo de pago sencillo y conciso.
+6. Automatizar las reservas.    
+
+
+## Proceso de Prototipado   
+
+### Prototipo de Baja
+
+<p align="center">
+<img src='src\images\baja_fidelidad.PNG'>
+</p>    
+
+### Prototipo de Mediana (Wireframing)  
+
+<p align="center">
+<img src='src\images\Median_Prototype.JPG'>
+<img src='src\images\modal_menu.JPG'>
+<img src='src\images\form_median.JPG'>
+</p>    
+
+[Link del wireframing en figma](https://www.figma.com/proto/Lsb6XPMcplUH6JZGemfn44iR/Prototipo-Mediana-Cocina-Abierta-2.0?node-id=2%3A95&viewport=27%2C481%2C0.12931416928768158&scaling=contain)
+
+### Prototipo de Alta Fidelidad 
+
+<p align="center">
+<img src='src\images\Alta_prototype.JPG'>
+<img src='src\images\menu_prototype.JPG'>
+<img src='src\images\form_prototype.JPG'>
+</p>    
+
+[Link del prototipo en figma](https://www.figma.com/proto/I7JloFcH2ZUWvhcEH2v0ZKRs/Prototipo-Alta-Cocina-Abierta-2.0?node-id=80%3A101&viewport=13%2C-16%2C1&scaling=scale-down)
+
+## Testeos de Usabilidad
+
+### Testeos de Prototitpo de Baja   
+
+Se testeo a 2 posibles usuarios con la finalidad de mejorar la experiencia de uso como solución a los problemas encontrados. Estos son los resultados que se obtuvo:
+
+- Muchas secciones en el landing page
+- Botón de “reserva” puesto aleatoriamente
+- Video de “testimoniales” muy grande
+- No se entiende que los íconos al lado de cena degustación es el plus de Cocina Abierta
+- Disponiblidad de horarios del mes comprensible
+
+### Testeos de Prototipo de mediana
+
+- Muchas secciones en el landing page
+- Botón de “reserva” puesto aleatoriamente
+- Video de “testimoniales” muy grande
+- No se entiende que los íconos al lado de cena degustación es el plus de Cocina Abierta
+- Disponiblidad de horarios del mes comprensible
+
+Link de los testeos en loom:    
+1. [Testeo del Prototipo de media a Laura](https://www.loom.com/share/515dc99f95694554a40181c2db3d0bd5)
+2. [Testeo del Prototipo de media a Nataly Jallo](https://www.loom.com/share/c94261b5c5a540a8b6dbec7d6f06080d)
+3. [Testeo del Prototipo de media a Angie Condor](https://www.loom.com/share/a3abc830b2ce464e9b254ce1646df44d)  
+4. [Testeo del Prototipo de media a Alexis P. Fernandez](https://www.loom.com/share/f0d8840ee9344e709bdd8d98d964e95f)
+
+
+### Testeos de Prototipo de Alta Fidelidad  
+
+- En la sección de la cena de degustación, la aproximidad de la información confunde el significado de los íconos como propuesta de valor.
+- Mejorar alineación de textos 
+- Botones de diferentes tamaños
+- Formulario de reservas es muy extenso
+- Estrellas de rating innecesarias 
+
+
