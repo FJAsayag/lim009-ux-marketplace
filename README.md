@@ -3,6 +3,7 @@
 - Emprendimiento: [COCINA ABIERTA](https://www.instagram.com/cocinaabierta.pe/)
 - Industria: Catering
 - Rubro: Servicios de chef a domicilio
+- Equipo: Fátima Ayasag, Wendy Condor y María Jaramillo
 
 
 ## Introducción
@@ -47,7 +48,7 @@ Diseñar una plataforma web que otorgue soluciones innovadoras para los usuarios
 
 A través de las entrevistas, se obtuvo dos percepciones distintas con respecto al servicio que ofrece Cocina Abierta. 
 
-`**CLIENTES**`:
+**`CLIENTES`**:
 
 **_"Un encuentro, cinco platos"_**  
 Kevin Shu, CEO de Cocina Abierta
@@ -71,22 +72,22 @@ Retos identificados:
 - Desarrollar flexibilidad para adaptarse a los distintas hogares y sus cocinas. 
 
 
-`**USUARIOS**`:
+**`USUARIOS`**:
 
 **_"La comida es una experiencia artística, hay diseño hasta en la comida"_**   
 Mariana Majima 
 
-**_“Creo que es un híbrido entre el servicio de chef a domicilio y los menús de degustación”_** 
+**_“Creo que es un híbrido entre el servicio de chef a domicilio y los menús de degustación”_**     
 Kevin Baba  
 
 La idea de este emprendimiento se considera no muy conocida en Perú, pero se puede apreciar la dedicación en sus platos y son muy creativos. Asímismo, el equipo proporcionado pudo transmitir la historia de cada plato conjunto a su estilo minimalista. Por lo tanto, este servicio es para alguien que busca algo íntimo y personalizado.   
 
 Por otro lado, se puede disfrutar del menú de degustación de 5 pasos, el cuál consiste en dos entradas, dos platos de fondo y un postre, debido a que quita la precupación que conlleva ser anfitrión. Adicionalmente, se presencia una gran variedad de sabores y texturas.    
 
-Con respecto a la forma de contacto, se buscaría en google y se observaría los Google Reviews, Read Advisors or Google Maps.    
+Con respecto a la forma de contacto, se buscaría en google y se observaría los Google Reviews, Read Advisors or Google Maps.        
 
 
-`**CONCLUSIÓN**`    
+**`CONCLUSIÓN`**    
 
 Analizando todo lo anterior se obtuvo la siguiente conclusión:  
 
@@ -154,7 +155,9 @@ Se identificaron categorías recurrentes de información como producto de las en
 |**Aventureros**|**Percepción del Servicio**|**Sociables** |  
 |**Comida Asiática**|**Saber cocinar**|**Reuniones familiares o con amigos**|
 
-### User Persona
+### User Persona    
+
+Para determinar al user persona se tomo en cuenta las características demográficas de los usuarios y posibles usuarios entrevistados. Adicionalmente, consideramos sus rutinas diarias, frustraciones, motivaciones para explorar nuevas alternativas culinarias.
 
 <p align="center">
 <img src='src\images\Macarena López.png'>
@@ -163,8 +166,16 @@ Se identificaron categorías recurrentes de información como producto de las en
 
 ### Costumer Journey Map
 
+Para la construcción del costumer journey map, se analizo desde el primer punto de contacto con el servicio hasta el día del evento del usuario.
+
 <p align='cente'>
 <img src='src\images\Customer journey map.png'>
+</p>
+
+Luego, se redució a los puntos claves dónde identificaron problemas que sufría el usuario a lo largo del trayecto. Asimismo, se encontró un punto de mejora. 
+
+<p align='cente'>
+<img src='src\images\small_CJM.JPG'>
 </p>
 
 
@@ -211,26 +222,31 @@ Después de los HMW's, conceptualizamos 6 objetivos para contruirlos y implement
 <img src='src\images\baja_fidelidad.PNG'>
 </p>    
 
-
-### Prototipo de Mediana (Wireframing)
+### Prototipo de Mediana (Wireframing)  
 
 <p align="center">
-<img>
+<img src='src\images\Median_Prototype.JPG'>
+<img src='src\images\modal_menu.JPG'>
+<img src='src\images\form_median.JPG'>
 </p>    
 
+[Link del wireframing en figma](https://www.figma.com/proto/Lsb6XPMcplUH6JZGemfn44iR/Prototipo-Mediana-Cocina-Abierta-2.0?node-id=2%3A95&viewport=27%2C481%2C0.12931416928768158&scaling=contain)
 
 ### Prototipo de Alta Fidelidad 
 
 <p align="center">
-<img>
+<img src='src\images\Alta_prototype.JPG'>
+<img src='src\images\menu_prototype.JPG'>
+<img src='src\images\form_prototype.JPG'>
 </p>    
 
+[Link del prototipo en figma](https://www.figma.com/proto/I7JloFcH2ZUWvhcEH2v0ZKRs/Prototipo-Alta-Cocina-Abierta-2.0?node-id=80%3A101&viewport=13%2C-16%2C1&scaling=scale-down)
 
 ## Testeos de Usabilidad
 
 ### Testeos de Prototitpo de Baja   
 
-Se testeo a 2 posibles usuarrios con la finalidad de mejorar la experiencia de uso como solución a los problemas encontrados. Estos son los resultados que se obtuvo:
+Se testeo a 2 posibles usuarios con la finalidad de mejorar la experiencia de uso como solución a los problemas encontrados. Estos son los resultados que se obtuvo:
 
 - Muchas secciones en el landing page
 - Botón de “reserva” puesto aleatoriamente
